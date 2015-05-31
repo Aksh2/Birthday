@@ -1,3 +1,9 @@
+/*
+ *			Implementation of Birthday Secenario Using OpenGL
+ *			Author: Akshay Kumar H
+ *			Email: aksh2ster@gmail.com
+ *
+*/
 #include <GL/glut.h>
 #include <math.h>
 #include <string.h>
